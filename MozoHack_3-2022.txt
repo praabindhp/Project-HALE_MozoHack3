@@ -1,0 +1,37 @@
+Project H.A.L.E
+
+
+Assisting doctors in making better diagnostic decisions and improve the efficiency of disease diagnosis, management, and more personalised treatment.
+
+
+The Health Monitoring Being the priority, we provide feasible and technical support for the patients and doctors with far awy geographical areas and time standards for digital consultation and proper health monitoring. The Data/Health Records & Patient Histories are to be stored in a secure and concurrent manner. Major disease areas that use AI tools include cancer, neurology and cardiology. We then review in more details the AI applications in stroke, in the three major areas of early detection and diagnosis, treatment, as well as outcome prediction and prognosis evaluation. Learning and self-correcting abilities to improve its accuracy based on feedback. An AI system can assist physicians by providing up-to-date medical information from journals, textbooks and clinical practices to inform proper patient care. In addition, an AI system can help to reduce diagnostic and therapeutic errors that are inevitable in the human clinical practice. The Data/Health Records & Patient Histories are not being stored in a secure and concurrent manner. The HAL Environment acts as an interoperability platform where all the medical data's including patient histories are stored and can be accessed from anywhere in our network by all the concern hospitals, insurers, laboratories, etc. This interoperability environment and the processes indulging in this extrapolate together has been coined as Project H.A.L.E. Hale provides all the attributes and features which builds trust, provides accessibility, health control and complete monitoring of fitness. This enables Efficient Diagnosis and Error Reduction, our project also Streamlines Patient Experience and brings a feel like home.
+
+
+The first challenge I would like to mention here is proper live data collection Gathering and measuring information on targeted variables in an established system, which then enables one to answer relevant questions and evaluate outcomes.
+Here comes the internet of things that is the IoT technology which is a network of internet connected objects which would solve our data collection problem.
+
+The Next challenge is data storage and security which represents the convergence of the storage, networking, and security disciplines, technologies, and methodologies for the purpose of protecting and securing digital assets.
+For this we use the blockchain technology. For all the blockchain processes we use the Ethereum network which is a global, decentralized platform for money and new kinds of applications. On Ethereum, we can write code that controls money and build applications.
+
+Moving on with the next challenge for implementation is unique identification of resources and patients that is A Unique Identifier (UID) is an Identifier that marks that particular record as Unique from every other record.
+For this we bring in the Aadhaar card.
+
+API Key generation
+ngrok authtoken 1jLBCDdKDq8lVDJDu2To4CjD9E1_6FjuWqeSbnPwtZnWGCQCangrok authtoken 1jLBCDdKDq8lVDJDu2To4CjD9E1_6FjuWqeSbnPwtZnWGCQCa
+
+Hashing Varieties
+Genesis Block Creation - Blockchain
+
+Private Session - Secret Key
+Flask Framework
+RuntimeError: The session is unavailable because no secret key was set.  Set the secret_key on the application to something unique and secret.
+
+REST API Landing
+TWILIO_ACCOUNT_SID="ACe7cbde9f0c424563a782525afa0af3f3"
+TWILIO_API_KEY_SID="SK9725e22d97ccc04200e0c2e61ef15aa5"
+TWILIO_API_KEY_SECRET="abMjIQ8qfcDuH7wzwuhzN7IXFJlxTLyz"TWILIO_ACCOUNT_SID="ACe7cbde9f0c424563a782525afa0af3f3"
+TWILIO_API_KEY_SID="SK9725e22d97ccc04200e0c2e61ef15aa5"
+TWILIO_API_KEY_SECRET="abMjIQ8qfcDuH7wzwuhzN7IXFJlxTLyz"
+
+
+Twilio Test API, Blockchain, IoT, AI, Python, Flask, Socket Programming, Tkinter, Django
